@@ -217,3 +217,6 @@ def main():
 
 if __name__ == "__main__":
     main() 
+ if not package_managers:
+                print("\n⚠️ No recognized dependency files found in the repository.")
+                sys.exit(0)
