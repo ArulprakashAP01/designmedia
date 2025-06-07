@@ -1,0 +1,25 @@
+{
+  "npm": [],
+  "pip": [
+    {
+      "name": "requests",
+      "current": "2.26.0",
+      "latest": "2.32.3"
+    },
+    {
+      "name": "pytest",
+      "current": "7.1.1",
+      "latest": "8.4.0"
+    },
+    {
+      "name": "django",
+      "current": "3.2.0",
+      "latest": "5.2.2"
+    },
+    {
+      "name": "numpy",
+      "current": "1.19.5",
+      "latest": "2.2.6"
+    }
+  ]
+}
