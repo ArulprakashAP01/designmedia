@@ -10,6 +10,7 @@ from typing import List, Dict
 from pathlib import Path
 import shutil
 import requests
+import flask
 from urllib.parse import urlparse
 
 def is_git_available() -> bool:
