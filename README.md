@@ -53,9 +53,6 @@ The action requires the following permissions:
 These permissions are automatically configured in the workflow file.
 
 ## Contributing
-jkhjkh
 
-dhfhhfh
-nvghhh ugjhj
-kjdh
+Sdjkksdjh
 Contributions are welcome! Feel free to submit issues and pull requests to add support for more package managers or improve existing functionality. 
